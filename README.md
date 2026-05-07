@@ -66,6 +66,8 @@ These findings suggest the need for more targeted fraud detection strategies:
 These results suggest that fraud is driven more by behavioral factors, such as time and location, rather than transaction amount.
 
 9. Tools Used
+    
 Python (Pandas)
+
 Tableau (Visualisation)
 
