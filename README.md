@@ -11,12 +11,12 @@
    
    The dataset used in this project was sourced from Kaggle and contains 100,000 credit card transactions.
 
-It includes key information such as:
-- IsFraud (0 = non-fraud, 1 = fraud)
-- TransactionDate
-- Amount
-- Location
-- TransactionType
+   It includes key information such as:
+   - IsFraud (0 = non-fraud, 1 = fraud)
+   - TransactionDate
+   - Amount
+   - Location
+   - TransactionType
 
 4. Analysis
 - Create features 
@@ -52,7 +52,7 @@ It includes key information such as:
  
 6. Dashboard
 The dashboard visualises fraud patterns across time, location, and combined risk factors.
- <img width="655" height="760" alt="Tableau_スクショ" src="https://github.com/user-attachments/assets/79178cc5-3089-4537-a424-1c8705f1c0a5" />
+    <img width="655" height="760" alt="Tableau_スクショ" src="https://github.com/user-attachments/assets/79178cc5-3089-4537-a424-1c8705f1c0a5" />
 
 
 7. Recommendations
