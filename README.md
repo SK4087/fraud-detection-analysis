@@ -1,11 +1,14 @@
 # Fraud Detection Analysis
 1. Overview
+
 This project aims to identify key drivers of fraudulent transactions using transaction data.
 
 2. Objective
+   
 To identify when and where fraudulent transactions are most likely to occur and support decision-making for fraud analysts and security teams.
 
 3. Dataset Overview
+   
 The dataset used in this project was sourced from Kaggle and contains 100,000 credit card transactions.
 
 It includes key information such as:
