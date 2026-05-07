@@ -52,7 +52,7 @@
  
 6. Dashboard
 The dashboard visualises fraud patterns across time, location, and combined risk factors.
-    <img width="655" height="760" alt="Tableau_スクショ" src="https://github.com/user-attachments/assets/79178cc5-3089-4537-a424-1c8705f1c0a5" />
+       <img width="655" height="760" alt="Tableau_スクショ" src="https://github.com/user-attachments/assets/79178cc5-3089-4537-a424-1c8705f1c0a5" />
 
 
 7. Recommendations
