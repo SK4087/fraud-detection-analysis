@@ -12,18 +12,18 @@
    The dataset used in this project was sourced from Kaggle and contains 100,000 credit card transactions.
 
    It includes key information such as:
-- IsFraud (0 = non-fraud, 1 = fraud)
-- TransactionDate
-- Amount
-- Location
-- TransactionType
+   - IsFraud (0 = non-fraud, 1 = fraud)
+   - TransactionDate
+   - Amount
+   - Location
+   - TransactionType
 
 4. Analysis
-- Create features 
-- Fraud rate by amount 
-- Fraud rate by hour, and weekdays 
-- Fraud rate by location
-- Transaction patterns
+   - Create features 
+   - Fraud rate by amount 
+   - Fraud rate by hour, and weekdays 
+   - Fraud rate by location
+   - Transaction patterns
 
 5. Key Findings
    
@@ -57,10 +57,11 @@ The dashboard visualises fraud patterns across time, location, and combined risk
 
 7. Recommendations
 These findings suggest the need for more targeted fraud detection strategies:
-- Apply additional verification during high-risk hours (e.g., 18:00–19:00). 
-- Pay closer attention to transactions from high-risk locations such as New York and Houston. 
-- Use multi-factor risk scoring rather than relying solely on transaction amount. 
-- Monitor combinations of risk factors, such as time and location, to improve detection accuracy.
+   - Apply additional verification during high-risk hours (e.g., 18:00–19:00). 
+   - Pay closer attention to transactions from high-risk locations such as New York and Houston. 
+   - Use multi-factor risk scoring rather than relying solely on transaction amount. 
+   - Monitor combinations of risk factors, such as time and location, to improve detection accuracy.
+     
 8. Conclusion
 These results suggest that fraud is driven more by behavioral factors, such as time and location, rather than transaction amount.
 
