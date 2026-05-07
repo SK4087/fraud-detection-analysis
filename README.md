@@ -67,7 +67,7 @@ These results suggest that fraud is driven more by behavioral factors, such as t
 
 9. Tools Used
     
-Python (Pandas)
-
-Tableau (Visualisation)
+   Python (Pandas)
+   
+   Tableau (Visualisation)
 
