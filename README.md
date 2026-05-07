@@ -11,7 +11,7 @@
    
    The dataset used in this project was sourced from Kaggle and contains 100,000 credit card transactions.
 
-It includes key information such as:
+   It includes key information such as:
 - IsFraud (0 = non-fraud, 1 = fraud)
 - TransactionDate
 - Amount
