@@ -26,8 +26,9 @@ It includes key information such as:
 - Transaction patterns
 
 5. Key Findings
+   
 5.1 Fraud rates vary by time of day  
-Fraud rates vary depending on the time of day.  
+Fraud rates vary by time of day.  
 The highest rate occurs around 18:00 (approximately 1.3%), while the lowest occurs around 17:00 (approximately 0.7%).  This indicates that fraud risk can be nearly twice as high during peak hours.
 
 5.2 Certain locations show elevated risk  
@@ -66,4 +67,4 @@ These results suggest that fraud is driven more by behavioral factors, such as t
 9. Tools Used
 Python (Pandas)
 Tableau (Visualisation)
-<img width="451" height="684" alt="image" src="https://github.com/user-attachments/assets/45688fb8-5176-4129-b755-c1a56c688fe1" />
+
